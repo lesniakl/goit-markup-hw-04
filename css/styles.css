@@ -81,8 +81,8 @@ figure {
 
 .section--order {
   background-color: var(--bg-color-accent2);
-  background-image: url("./images/overlay.png"),
-    url("./images/background-img.jpg");
+  background-image: url("/images/overlay.png"),
+    url("/images/background-img.jpg");
   background-position: 50% 50%, 50% 50%;
   background-size: 1600px 100%, 1600px 100%;
   background-repeat: no-repeat, no-repeat;
